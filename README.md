@@ -1,2 +1,2 @@
 # AIROGS-Challenge
-Code and paper of AIROGS Challenge
+Code will be publised soon.........
